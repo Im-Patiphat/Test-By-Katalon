@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign in to Classroom</name>
+   <tag></tag>
+   <elementGuidId>c4e9570c-97b4-41f1-a643-e8eb65fc13de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='gfe-main-content']/section/div/div/div/div/div/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.gfe-button.gfe-button--medium-emphasis.gfe-button--middle-align</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f5fea9e6-e768-48f3-a465-0b54f251e4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gfe-button gfe-button--medium-emphasis gfe-button--middle-align</value>
+      <webElementGuid>1d64b687-fc92-49f4-8d8f-37ccfef48320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fclassroom.google.com&amp;passive=true</value>
+      <webElementGuid>102fd53d-7abd-4eef-9af4-f023b8f0ab87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>1439f84a-3ae9-452a-b606-47b837341104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>56f20fa2-a82b-432e-a316-a7c3dcff305c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-g-type</name>
+      <type>Main</type>
+      <value>outbound</value>
+      <webElementGuid>944afb65-f802-4809-86d5-e6962de811b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-g-action</name>
+      <type>Main</type>
+      <value>page intro cta click</value>
+      <webElementGuid>ac49e66a-52de-4171-b442-27088b5de4e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-g-category</name>
+      <type>Main</type>
+      <value>component</value>
+      <webElementGuid>5eb90297-660d-4d84-89c5-ca2163ce3a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-g-section</name>
+      <type>Main</type>
+      <value>classroom-classroom-hero-section</value>
+      <webElementGuid>305cf9e1-f2ca-4e75-ab35-d797920a3a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-g-label</name>
+      <type>Main</type>
+      <value>Where teaching and learning come together - Sign in to Classroom - https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fclassroom.google.com&amp;passive=true</value>
+      <webElementGuid>0e063d63-57ab-48cf-bfc0-2e4ddbf057df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ga4</name>
+      <type>Main</type>
+      <value>{&quot;click&quot;: {&quot;event&quot;: &quot;cta_click&quot;, &quot;link_text&quot;: &quot;Sign in to Classroom&quot;, &quot;link_type&quot;: &quot;external&quot;, &quot;link_url&quot;: &quot;https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fclassroom.google.com&amp;passive=true&quot;, &quot;module_name&quot;: &quot;&quot;, &quot;position&quot;: 2, &quot;section_header&quot;: &quot;&quot;}}</value>
+      <webElementGuid>da5e8228-29cb-44c3-a5e9-75c982a74b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>58104768-80e9-443d-b119-0208c4d6d56a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ga4-loaded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>96d75db5-86f4-4a0a-af20-da2a3f9c90bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Sign in to Classroom
+  </value>
+      <webElementGuid>2b1b10de-7b12-4772-9c92-04e2fb29947f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gfe-main-content&quot;)/section[@class=&quot;gfe-page  classroom-classroom-hero-section&quot;]/div[@class=&quot;classroom-hero-section&quot;]/div[@class=&quot;gfe-grid&quot;]/div[@class=&quot;gfe-grid__col gfe-grid__col--span-12-sm gfe-grid__col--span-10-md gfe-grid__col--span-6-lg gfe-grid__col--span-6-xl gfe-mod-order-0 gfe-grid__col--span-0-offset-sm gfe-grid__col--span-0-offset-right-sm gfe-grid__col--span-1-offset-md gfe-grid__col--span-0-offset-right-md gfe-grid__col--span-0-offset-lg gfe-grid__col--span-0-offset-right-lg gfe-grid__col--span-0-offset-xl gfe-grid__col--span-0-offset-right-xl&quot;]/div[@class=&quot;classroom-classroom-hero-section-classroom-hero-page-intro&quot;]/div[@class=&quot;gfe-grid gfe-page-intro&quot;]/div[@class=&quot;gfe-copy-intro gfe-mod-text-  gfe-grid__col--span-12&quot;]/ul[@class=&quot;gfe-rows gfe-no-bullet gfe-rows--buttons gfe-rows--mobile-stacked gfe-mod-spacer-2-top&quot;]/li[@class=&quot;gfe-rows__item  gfe-mod-valign-middle gfe-mod-spacer-2-top gfe-mod-spacer-2-top-sm-only&quot;]/a[@class=&quot;gfe-button gfe-button--medium-emphasis gfe-button--middle-align&quot;]</value>
+      <webElementGuid>6dcd1fa7-6ca6-455f-9325-0002c128a763</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='gfe-main-content']/section/div/div/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>1d343e0f-4b40-4238-b22d-3f4b324cab35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fclassroom.google.com&amp;passive=true')])[4]</value>
+      <webElementGuid>af2c8003-aaf0-43bd-ba9a-1d3d31ed9af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/a</value>
+      <webElementGuid>89bfa339-d5e5-4b54-a7a7-3355d2821a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fclassroom.google.com&amp;passive=true' and (text() = '
+    Sign in to Classroom
+  ' or . = '
+    Sign in to Classroom
+  ')]</value>
+      <webElementGuid>b343e782-a4d6-49c6-bd71-97ac328aed47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

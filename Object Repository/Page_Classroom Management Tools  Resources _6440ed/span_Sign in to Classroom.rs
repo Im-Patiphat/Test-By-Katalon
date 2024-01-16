@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in to Classroom</name>
+   <tag></tag>
+   <elementGuidId>85be4cee-4773-4d2d-9c6a-23b5205ee6b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='gfe-main-content']/section/div/div/div/div/div/div/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.gfe-button.gfe-button--medium-emphasis.gfe-button--middle-align > span.gfe-button__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3bd7dfb-e6a4-4a20-a7aa-4625191879b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gfe-button__label</value>
+      <webElementGuid>01c26713-9914-432d-9fa3-f48942e5ed03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in to Classroom</value>
+      <webElementGuid>9c91a4e4-43d3-4fce-b79f-091383f9d22c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gfe-main-content&quot;)/section[@class=&quot;gfe-page  classroom-classroom-hero-section&quot;]/div[@class=&quot;classroom-hero-section&quot;]/div[@class=&quot;gfe-grid&quot;]/div[@class=&quot;gfe-grid__col gfe-grid__col--span-12-sm gfe-grid__col--span-10-md gfe-grid__col--span-6-lg gfe-grid__col--span-6-xl gfe-mod-order-0 gfe-grid__col--span-0-offset-sm gfe-grid__col--span-0-offset-right-sm gfe-grid__col--span-1-offset-md gfe-grid__col--span-0-offset-right-md gfe-grid__col--span-0-offset-lg gfe-grid__col--span-0-offset-right-lg gfe-grid__col--span-0-offset-xl gfe-grid__col--span-0-offset-right-xl&quot;]/div[@class=&quot;classroom-classroom-hero-section-classroom-hero-page-intro&quot;]/div[@class=&quot;gfe-grid gfe-page-intro&quot;]/div[@class=&quot;gfe-copy-intro gfe-mod-text-  gfe-grid__col--span-12&quot;]/ul[@class=&quot;gfe-rows gfe-no-bullet gfe-rows--buttons gfe-rows--mobile-stacked gfe-mod-spacer-2-top&quot;]/li[@class=&quot;gfe-rows__item  gfe-mod-valign-middle gfe-mod-spacer-2-top gfe-mod-spacer-2-top-sm-only&quot;]/a[@class=&quot;gfe-button gfe-button--medium-emphasis gfe-button--middle-align&quot;]/span[@class=&quot;gfe-button__label&quot;]</value>
+      <webElementGuid>35d1df46-26fe-4edb-9563-6367f3e75377</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='gfe-main-content']/section/div/div/div/div/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>81816363-f7fc-4106-8675-3ad7b09ef4d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/a/span</value>
+      <webElementGuid>2a0ea650-5c6f-4c6d-86ae-10bb15e16fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign in to Classroom' or . = 'Sign in to Classroom')]</value>
+      <webElementGuid>51affd8c-e3d6-49a5-bb66-c26dce00ccf6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

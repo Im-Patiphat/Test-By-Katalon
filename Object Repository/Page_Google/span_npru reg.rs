@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_npru reg</name>
+   <tag></tag>
+   <elementGuidId>5689a671-8b23-4bde-a210-d611b187552f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ERWdKc']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ERWdKc > div.wM6W7d > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af5fdc03-4cfd-4fa6-9bbd-5d2a40753d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>npru reg</value>
+      <webElementGuid>6d131bc1-add6-41c2-8c65-04f6fca9cada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ERWdKc&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]</value>
+      <webElementGuid>da955d46-a67a-4aa8-be95-f81b12f96d76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ERWdKc']/div/span</value>
+      <webElementGuid>ade32451-18fe-4361-89ec-a0d25772ae21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div[2]/div/div/span</value>
+      <webElementGuid>951f4abf-d395-4a75-917d-d9917d25bd2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'npru reg' or . = 'npru reg')]</value>
+      <webElementGuid>3d12adbb-4e17-4260-9ddb-5ce154b8890b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
