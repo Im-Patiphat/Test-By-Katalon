@@ -1,0 +1,58 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01 Search By Keyword,Edge Chromium 120,,,16-01-2024 15:23:36,16-01-2024 15:24:33,57.480s,PASSED
+,,,,,,,
+Test Cases/UC01-017/TC03 Search By Keyword - KRU,Edge Chromium 120,,,16-01-2024 15:23:36,16-01-2024 15:23:47,10.810s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,16-01-2024 15:23:36,16-01-2024 15:23:37,1.286s,PASSED
+"navigateToUrl(""https://www.yahoo.com/"")",Edge Chromium 120,,,16-01-2024 15:23:37,16-01-2024 15:23:41,3.280s,PASSED
+"click(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""))",Edge Chromium 120,,,16-01-2024 15:23:41,16-01-2024 15:23:42,1.450s,PASSED
+"setText(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""), ""KRU"")",Edge Chromium 120,,,16-01-2024 15:23:42,16-01-2024 15:23:44,1.311s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/buttonybar-search""))",Edge Chromium 120,,,16-01-2024 15:23:44,16-01-2024 15:23:44,0.641s,PASSED
+"click(findTestObject(""Object Repository/Page_KRU - Yahoo Search Results/a_www.krurestaurant.comKru Contemporary Jap_3946b9""))",Edge Chromium 120,,,16-01-2024 15:23:44,16-01-2024 15:23:47,2.415s,PASSED
+closeBrowser(),Edge Chromium 120,,,16-01-2024 15:23:47,16-01-2024 15:23:47,0.223s,PASSED
+,,,,,,,
+Test Cases/UC01-017/TC02 Search By Keyword - NPRU,Edge Chromium 120,,,16-01-2024 15:23:47,16-01-2024 15:23:53,6.293s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,16-01-2024 15:23:47,16-01-2024 15:23:47,0.597s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Edge Chromium 120,,,16-01-2024 15:23:47,16-01-2024 15:23:48,0.961s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""npru"")",Edge Chromium 120,,,16-01-2024 15:23:48,16-01-2024 15:23:49,0.569s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_NPRU""))",Edge Chromium 120,,,16-01-2024 15:23:49,16-01-2024 15:23:50,0.651s,PASSED
+"click(findTestObject(""Object Repository/Page_npru -  Google/h3_Nakhon Pathom Rajabhat""))",Edge Chromium 120,,,16-01-2024 15:23:50,16-01-2024 15:23:53,3.292s,PASSED
+closeBrowser(),Edge Chromium 120,,,16-01-2024 15:23:53,16-01-2024 15:23:53,0.171s,PASSED
+,,,,,,,
+Test Cases/UC01-017/TC01 Search By Keyword - PBRU,Edge Chromium 120,,,16-01-2024 15:23:53,16-01-2024 15:24:05,12.147s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,16-01-2024 15:23:53,16-01-2024 15:23:54,0.532s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Edge Chromium 120,,,16-01-2024 15:23:54,16-01-2024 15:23:55,0.941s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""Yahoo"")",Edge Chromium 120,,,16-01-2024 15:23:55,16-01-2024 15:23:55,0.541s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Yahoo""))",Edge Chromium 120,,,16-01-2024 15:23:55,16-01-2024 15:23:56,0.619s,PASSED
+"click(findTestObject(""Object Repository/Page_yahoo -  Google/h3_Yahoo  Mail, Weather, Search, Politics, _aabfff""))",Edge Chromium 120,,,16-01-2024 15:23:56,16-01-2024 15:23:59,3.491s,PASSED
+"setText(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""), ""PBRU"")",Edge Chromium 120,,,16-01-2024 15:23:59,16-01-2024 15:24:02,3.118s,PASSED
+"click(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/buttonybar-search""))",Edge Chromium 120,,,16-01-2024 15:24:02,16-01-2024 15:24:03,0.628s,PASSED
+"click(findTestObject(""Object Repository/Page_PBRU - Yahoo Search Results/a_reg.pbru.ac.th  register""))",Edge Chromium 120,,,16-01-2024 15:24:03,16-01-2024 15:24:05,2.012s,PASSED
+closeBrowser(),Edge Chromium 120,,,16-01-2024 15:24:05,16-01-2024 15:24:05,0.214s,PASSED
+,,,,,,,
+Test Cases/UC02-017/TC01 Search By Keyword - PBRU,Edge Chromium 120,,,16-01-2024 15:24:05,16-01-2024 15:24:18,12.372s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,16-01-2024 15:24:05,16-01-2024 15:24:06,0.585s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Edge Chromium 120,,,16-01-2024 15:24:06,16-01-2024 15:24:07,0.950s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""Yahoo"")",Edge Chromium 120,,,16-01-2024 15:24:07,16-01-2024 15:24:07,0.552s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Yahoo""))",Edge Chromium 120,,,16-01-2024 15:24:07,16-01-2024 15:24:08,0.722s,PASSED
+"click(findTestObject(""Object Repository/Page_yahoo -  Google/h3_Yahoo  Mail, Weather, Search, Politics, _aabfff""))",Edge Chromium 120,,,16-01-2024 15:24:08,16-01-2024 15:24:13,4.719s,PASSED
+"setText(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""), ""PBRU"")",Edge Chromium 120,,,16-01-2024 15:24:13,16-01-2024 15:24:14,1.588s,PASSED
+"click(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/buttonybar-search""))",Edge Chromium 120,,,16-01-2024 15:24:14,16-01-2024 15:24:15,0.740s,PASSED
+"click(findTestObject(""Object Repository/Page_PBRU - Yahoo Search Results/a_reg.pbru.ac.th  register""))",Edge Chromium 120,,,16-01-2024 15:24:15,16-01-2024 15:24:17,2.293s,PASSED
+closeBrowser(),Edge Chromium 120,,,16-01-2024 15:24:17,16-01-2024 15:24:18,0.209s,PASSED
+,,,,,,,
+Test Cases/UC02-017/TC02 Search By Keyword - NPRU,Edge Chromium 120,,,16-01-2024 15:24:18,16-01-2024 15:24:24,6.341s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,16-01-2024 15:24:18,16-01-2024 15:24:18,0.605s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Edge Chromium 120,,,16-01-2024 15:24:18,16-01-2024 15:24:19,1.059s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""npru"")",Edge Chromium 120,,,16-01-2024 15:24:19,16-01-2024 15:24:20,0.564s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_NPRU""))",Edge Chromium 120,,,16-01-2024 15:24:20,16-01-2024 15:24:21,0.754s,PASSED
+"click(findTestObject(""Object Repository/Page_npru -  Google/h3_Nakhon Pathom Rajabhat""))",Edge Chromium 120,,,16-01-2024 15:24:21,16-01-2024 15:24:24,3.176s,PASSED
+closeBrowser(),Edge Chromium 120,,,16-01-2024 15:24:24,16-01-2024 15:24:24,0.173s,PASSED
+,,,,,,,
+Test Cases/UC02-017/TC03 Search By Keyword - KRU,Edge Chromium 120,,,16-01-2024 15:24:24,16-01-2024 15:24:33,9.384s,PASSED
+"openBrowser("""")",Edge Chromium 120,,,16-01-2024 15:24:24,16-01-2024 15:24:25,0.590s,PASSED
+"navigateToUrl(""https://www.yahoo.com/"")",Edge Chromium 120,,,16-01-2024 15:24:25,16-01-2024 15:24:28,3.610s,PASSED
+"click(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""))",Edge Chromium 120,,,16-01-2024 15:24:28,16-01-2024 15:24:29,0.755s,PASSED
+"setText(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""), ""KRU"")",Edge Chromium 120,,,16-01-2024 15:24:29,16-01-2024 15:24:30,1.243s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/buttonybar-search""))",Edge Chromium 120,,,16-01-2024 15:24:30,16-01-2024 15:24:31,0.722s,PASSED
+"click(findTestObject(""Object Repository/Page_KRU - Yahoo Search Results/a_www.krurestaurant.comKru Contemporary Jap_3946b9""))",Edge Chromium 120,,,16-01-2024 15:24:31,16-01-2024 15:24:33,2.268s,PASSED
+closeBrowser(),Edge Chromium 120,,,16-01-2024 15:24:33,16-01-2024 15:24:33,0.185s,PASSED

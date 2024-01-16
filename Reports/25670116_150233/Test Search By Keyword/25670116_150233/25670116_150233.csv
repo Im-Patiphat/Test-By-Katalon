@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Search By Keyword,Chrome 119.0.0.0,,,16-01-2024 15:02:38,16-01-2024 15:03:54,1m - 16.233s,FAILED
+,,,,,,,
+Test Cases/017/Search By Keyword - KRU,Chrome 119.0.0.0,,,16-01-2024 15:02:38,16-01-2024 15:03:08,29.869s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,16-01-2024 15:02:38,16-01-2024 15:02:40,1.283s,PASSED
+"navigateToUrl(""https://www.yahoo.com/"")",Chrome 119.0.0.0,,,16-01-2024 15:02:40,16-01-2024 15:03:03,23.376s,PASSED
+"click(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""))",Chrome 119.0.0.0,,,16-01-2024 15:03:03,16-01-2024 15:03:04,0.932s,PASSED
+"setText(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""), ""KRU"")",Chrome 119.0.0.0,,,16-01-2024 15:03:04,16-01-2024 15:03:05,0.809s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/buttonybar-search""))",Chrome 119.0.0.0,,,16-01-2024 15:03:05,16-01-2024 15:03:05,0.652s,PASSED
+"click(findTestObject(""Object Repository/Page_KRU - Yahoo Search Results/a_www.krurestaurant.comKru Contemporary Jap_3946b9""))",Chrome 119.0.0.0,,,16-01-2024 15:03:05,16-01-2024 15:03:08,2.521s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,16-01-2024 15:03:08,16-01-2024 15:03:08,0.097s,PASSED
+,,,,,,,
+Test Cases/017/Search By Keyword - NPRU,Chrome 119.0.0.0,,,16-01-2024 15:03:08,16-01-2024 15:03:14,5.703s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,16-01-2024 15:03:08,16-01-2024 15:03:09,0.549s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 119.0.0.0,,,16-01-2024 15:03:09,16-01-2024 15:03:09,0.826s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""npru"")",Chrome 119.0.0.0,,,16-01-2024 15:03:09,16-01-2024 15:03:10,0.569s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_NPRU""))",Chrome 119.0.0.0,,,16-01-2024 15:03:10,16-01-2024 15:03:11,0.633s,PASSED
+"click(findTestObject(""Object Repository/Page_npru -  Google/h3_Nakhon Pathom Rajabhat""))",Chrome 119.0.0.0,,,16-01-2024 15:03:11,16-01-2024 15:03:14,3.001s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,16-01-2024 15:03:14,16-01-2024 15:03:14,0.069s,PASSED
+,,,,,,,
+Test Cases/017/Search By Keyword - PBRU,Chrome 119.0.0.0,,,16-01-2024 15:03:14,16-01-2024 15:03:48,33.859s,PASSED
+"openBrowser("""")",Chrome 119.0.0.0,,,16-01-2024 15:03:14,16-01-2024 15:03:14,0.532s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 119.0.0.0,,,16-01-2024 15:03:14,16-01-2024 15:03:15,0.743s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""Ya"")",Chrome 119.0.0.0,,,16-01-2024 15:03:15,16-01-2024 15:03:16,0.574s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Yahoo""))",Chrome 119.0.0.0,,,16-01-2024 15:03:16,16-01-2024 15:03:16,0.626s,PASSED
+"click(findTestObject(""Object Repository/Page_yahoo -  Google/h3_Yahoo  Mail, Weather, Search, Politics, _aabfff""))",Chrome 119.0.0.0,,,16-01-2024 15:03:16,16-01-2024 15:03:43,26.935s,PASSED
+"setText(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/input_p""), ""PBRU"")",Chrome 119.0.0.0,,,16-01-2024 15:03:43,16-01-2024 15:03:45,1.668s,PASSED
+"click(findTestObject(""Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/buttonybar-search""))",Chrome 119.0.0.0,,,16-01-2024 15:03:45,16-01-2024 15:03:45,0.635s,PASSED
+"click(findTestObject(""Object Repository/Page_PBRU - Yahoo Search Results/a_reg.pbru.ac.th  register""))",Chrome 119.0.0.0,,,16-01-2024 15:03:45,16-01-2024 15:03:47,1.990s,PASSED
+closeBrowser(),Chrome 119.0.0.0,,,16-01-2024 15:03:47,16-01-2024 15:03:48,0.101s,PASSED
+,,,,,,,
+Test Cases/017/Search By Keyword,Chrome 119.0.0.0,,,16-01-2024 15:03:53,16-01-2024 15:03:54,1.565s,FAILED
+"openBrowser("""")",Chrome 119.0.0.0,,,16-01-2024 15:03:53,16-01-2024 15:03:53,0.610s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 119.0.0.0,,,16-01-2024 15:03:53,16-01-2024 15:03:54,0.821s,PASSED
+"setText(findTestObject(null), ""KRU"")",Chrome 119.0.0.0,,,16-01-2024 15:03:54,16-01-2024 15:03:54,0.123s,FAILED

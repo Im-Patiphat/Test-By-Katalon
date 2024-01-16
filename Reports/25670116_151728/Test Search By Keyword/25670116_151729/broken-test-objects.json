@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_yahoo -  Google/h3_Yahoo  Mail, Weather, Search, Politics, _aabfff",
+      "brokenLocator": "//div[@id\u003d\u0027rso\u0027]/div/div/div/div/div/div/div/div/div/div/span/a/h3",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h3",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/25670116_151728/Test Search By Keyword/25670116_151729/Object Repository/Page_yahoo -  Google/h3_Yahoo  Mail, Weather, Search, Politics, _aabfff_position.png"
+    }
+  ]
+}
